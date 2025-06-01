@@ -1,0 +1,37 @@
+[33mcommit 91ccb47276f09c6f336aedfb06cec66a4aded9fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: allyfleur <bernabeallysamarie@gmail.com>
+Date:   Sun Jun 1 17:54:57 2025 +0800
+
+    Initial commit
+
+ .gitignore                                      | 133 [32m+++++++[m
+ App.config                                      |   6 [32m+[m
+ AttackMove.cs                                   |  37 [32m++[m
+ Form1.Designer.cs                               | 328 [32m++++++++++++++++++[m
+ Form1.cs                                        | 438 [32m++++++++++++++++++++++++[m
+ IPT- Fianls Lab Exam.sln                        |  25 [32m++[m
+ IPT- Finals Lab Exam.csproj                     |  89 [32m+++++[m
+ Program.cs                                      |  16 [32m+[m
+ Properties/AssemblyInfo.cs                      |  33 [32m++[m
+ Properties/Resources.Designer.cs                |  63 [32m++++[m
+ Properties/Resources.resx                       | 117 [32m+++++++[m
+ Properties/Settings.Designer.cs                 |  26 [32m++[m
+ Properties/Settings.settings                    |   7 [32m+[m
+ README.txt.txt                                  | 105 [32m++++++[m
+ SailorJupiter.cs                                |  36 [32m++[m
+ SailorMars.cs                                   |  39 [32m+++[m
+ SailorMercury.cs                                |  47 [32m+++[m
+ SailorMoon.cs                                   |  34 [32m++[m
+ SailorScout.cs                                  | 118 [32m+++++++[m
+ StatusEffect.cs                                 |  24 [32m++[m
+ System/Drawing/Drawing2D/RadialGradientBrush.cs |  37 [32m++[m
+ 21 files changed, 1758 insertions(+)
+
+[33mcommit b931bfec84cf3f211da5ccac99e37591266da46b[m
+Author: Ally <165445257+allyfleur@users.noreply.github.com>
+Date:   Sun Jun 1 18:27:59 2025 +0800
+
+    Initial commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
