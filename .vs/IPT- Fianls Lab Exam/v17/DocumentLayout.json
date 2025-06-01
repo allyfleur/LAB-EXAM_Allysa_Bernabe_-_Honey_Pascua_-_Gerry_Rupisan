@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\sailorjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:sailorjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\sailormars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:sailormars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\sailormercury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:sailormercury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\sailormoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:sailormoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Finals Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\system\\drawing\\drawing2d\\radialgradientbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Finals Lab Exam.csproj|solutionrelative:system\\drawing\\drawing2d\\radialgradientbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\sailorscout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:sailorscout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\attackmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:attackmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|c:\\users\\chand\\source\\repos\\studentapp\\ipt- fianls lab exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F30E6E7A-BD0E-44A0-89F2-7E95C133F083}|IPT- Fianls Lab Exam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SailorMoon.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMoon.cs",
+              "RelativeDocumentMoniker": "SailorMoon.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMoon.cs",
+              "RelativeToolTip": "SailorMoon.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SailorMercury.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMercury.cs",
+              "RelativeDocumentMoniker": "SailorMercury.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMercury.cs",
+              "RelativeToolTip": "SailorMercury.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:10:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SailorMars.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMars.cs",
+              "RelativeDocumentMoniker": "SailorMars.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorMars.cs",
+              "RelativeToolTip": "SailorMars.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:47.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SailorJupiter.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorJupiter.cs",
+              "RelativeDocumentMoniker": "SailorJupiter.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorJupiter.cs",
+              "RelativeToolTip": "SailorJupiter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:18:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:28:00.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAqwD8BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:19:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAqwLUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:19:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RadialGradientBrush.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\System\\Drawing\\Drawing2D\\RadialGradientBrush.cs",
+              "RelativeDocumentMoniker": "System\\Drawing\\Drawing2D\\RadialGradientBrush.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\System\\Drawing\\Drawing2D\\RadialGradientBrush.cs",
+              "RelativeToolTip": "System\\Drawing\\Drawing2D\\RadialGradientBrush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:27:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SailorScout.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorScout.cs",
+              "RelativeDocumentMoniker": "SailorScout.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\SailorScout.cs",
+              "RelativeToolTip": "SailorScout.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:08:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttackMove.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\AttackMove.cs",
+              "RelativeDocumentMoniker": "AttackMove.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\AttackMove.cs",
+              "RelativeToolTip": "AttackMove.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:17:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusEffect.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\StatusEffect.cs",
+              "RelativeDocumentMoniker": "StatusEffect.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\StatusEffect.cs",
+              "RelativeToolTip": "StatusEffect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:17:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApp\\IPT- Fianls Lab Exam\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:08:02.458Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

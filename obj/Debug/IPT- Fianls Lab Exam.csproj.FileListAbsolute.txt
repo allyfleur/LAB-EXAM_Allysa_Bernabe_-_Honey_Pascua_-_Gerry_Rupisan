@@ -1,0 +1,4 @@
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Fianls Lab Exam.csproj.AssemblyReference.cache
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT__Fianls_Lab_Exam.Properties.Resources.resources
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Fianls Lab Exam.csproj.GenerateResource.cache
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Fianls Lab Exam.csproj.CoreCompileInputs.cache

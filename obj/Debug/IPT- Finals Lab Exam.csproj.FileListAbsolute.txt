@@ -1,0 +1,9 @@
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Finals Lab Exam.csproj.AssemblyReference.cache
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT__Fianls_Lab_Exam.Properties.Resources.resources
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Finals Lab Exam.csproj.GenerateResource.cache
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Finals Lab Exam.csproj.CoreCompileInputs.cache
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\bin\Debug\IPT- Fianls Lab Exam.exe.config
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\bin\Debug\IPT- Fianls Lab Exam.exe
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\bin\Debug\IPT- Fianls Lab Exam.pdb
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Fianls Lab Exam.exe
+C:\Users\chand\source\repos\StudentApp\IPT- Fianls Lab Exam\obj\Debug\IPT- Fianls Lab Exam.pdb
