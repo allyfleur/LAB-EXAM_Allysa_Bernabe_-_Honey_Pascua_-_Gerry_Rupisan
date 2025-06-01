@@ -1,0 +1,133 @@
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio 2017 cache/options directory
+# Visual Studio 2019 and later cache/options directory
+.vs/config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# BenchmarkDotNet comparison results
+/BenchmarkDotNet.Artifacts/
+
+#ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+*.dotCover
+
+# DotCover
+*.dotcover
+*.dcvr
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# NCover
+*.ncov
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Output files
+*.out
+*.pdb
+*.exe
+*.dll
+*.obj
+*.ilk
+*.aps
+*.manifest
+*.tlb
+*.log
+*.tmp
+*.bak
+
+# NuGet Packages
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if you are using a packages.config file
+#!packages.config
+# NuGet v3's project.json file needs to be checked in
+#!project.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder Cache Files
+Desktop.ini
+
+# C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# StyleCop
+StyleCopReport.xml
+
+# Fakes
+FakesAssemblies/
+
+# Roslyn files
+*.ruleset
+
+# Node.js (if you were to use it for any build tooling, unlikely for this project but good to have)
+node_modules/
+npm-debug.log
+yarn-error.log
